@@ -7,4 +7,9 @@ This is a huge list of things that you should change to make your computer run f
 
 1. Security & Privacy
 2. Optimizations
-3. 
+3. Debloat Features
+4. Recommended Software
+
+
+# 1. Security & Privacy
+As you may know, Windows comes pre-installed with a lot of telemetry that you can't disable.
