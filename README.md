@@ -12,4 +12,4 @@ This is a huge list of things that you should change to make your computer run f
 
 
 # 1. Security & Privacy
-As you may know, Windows comes pre-installed with a lot of telemetry that you can't disable.
+As you may know, Windows comes pre-installed with a lot of telemetry that you can't disable. But with a couple scripts you'll be able to disable the worst of the telemetry. Using (Windows10Debloater)[https://github.com/Sycnex/Windows10Debloater] has pre-built scripts that will remove most of these issues.
